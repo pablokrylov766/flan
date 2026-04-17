@@ -1,6 +1,6 @@
 {
   "name": "flan",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "A tasty tool that lets you save, load and share postgres snapshots with ease",
   "main": "src/index.ts",
   "scripts": {
